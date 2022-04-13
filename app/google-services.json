@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284373694034",
+    "project_id": "testlabexample-d0f1f",
+    "storage_bucket": "testlabexample-d0f1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284373694034:android:cd0356c71b6d6589da918b",
+        "android_client_info": {
+          "package_name": "com.example.firebasetestlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284373694034-k13hmp7ftr9llmol7dsapofu5pntskaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEjgO-SZUiiyHsTAzUyiZ_Aq5-tfhwFys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284373694034-k13hmp7ftr9llmol7dsapofu5pntskaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
